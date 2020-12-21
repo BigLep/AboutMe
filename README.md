@@ -5,10 +5,10 @@ This repository captures some notes about me, Steve Loeppky.
 1. [LinkedIn](https://www.linkedin.com/in/steveloeppky/)
 2. Resume
  - [Google Drive PDF](https://drive.google.com/file/d/1xqxdiq0urKfaHH9qjY6CngHjvRJ3RHfE/view?usp=sharing)
- - ipfs (coming soon)
+ - [ipfs via HTTP gateway](https://ipfs.io/ipfs/QmNzHcC1tUb72Tw5ZH9hLo7kqmFHnGHAP7mxicSDs9Cbxn?filename=Resume.SteveLoeppky.SoftwareDevelopmentLeader.202012.pdf)
 3. Management Philosophy
  - [Google Doc](https://docs.google.com/document/d/1JMFc6KUGk9LyeLJeHbYTJEc8Mk7HcOY0KfZzLJ0-kH0/edit?usp=sharing)
- - ipfs (coming soon(
+ - [ipfs via HTTP gateway](https://ipfs.io/ipfs/QmeFY3bhk8b4YPnFuprrtMxhSgQyxJZavoBzyjxWWfQg8K?filename=Steve%20Loeppky%20Management%20Philosophy%20202012.pdf)
 
 # Why use GitHub vs. blog, website, LinkedIn, etc.
 There's nothing mission critical here as to why, but the initial reasons are:
